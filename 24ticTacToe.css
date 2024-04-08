@@ -30,7 +30,7 @@ body {
 .button {
   width: 18vmin;
   height: 18vmin;
-  font-size: 5rem;
+  font-size: 5vw;
   background-color: #82a6b1;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.8);
   color: #f3ffb9;
